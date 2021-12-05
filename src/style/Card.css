@@ -1,0 +1,123 @@
+.wholediv{
+    display: inline-block;
+    margin: 0px;
+    border: 1px solid black;
+    border-radius: 5px 5px 5px 5px;
+}
+.textalignoverimage{
+    position: relative;
+}
+.premium{
+    position: absolute;
+    padding: 3px 3px 3px 3px;
+    color: #f5f5f5;
+    background-color: #17aaa0;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
+}
+.plus{
+    position: absolute;
+    color:#f5f5f5;
+    background-color: black;
+    padding: 5px 5px 5px 5px;
+    top: 0px;
+    left: 150px;
+    font-size: 25px;
+}
+.rc{
+    border-radius: 5px 5px 5px 5px;
+}
+.bottomArea{
+    background-color: white;
+    margin-top: -5px;
+}
+.rcbot{
+    border-radius: 0px 0px 5px 5px;
+}
+.movieTitle{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    padding: 5px 5px 0px 10px;
+    margin-top: 10px;
+}
+.movie2Title{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    padding: 0px 5px 0px 10px;
+    margin-top: 5px;
+}
+.year{
+    font-style: italic;
+    color: #BDBDBD;
+    padding: 5px 5px 10px 10px;
+    font-family: 'Poppins', sans-serif;
+}
+.movieTitle1{
+    
+    font-size: large;
+    font-family: 'Poppins', sans-serif;
+    padding: 5px 5px 0px 10px;
+    margin-top: 10px;
+}
+.movie2Title1{
+   
+    font-size: large;
+    font-family: 'Poppins', sans-serif;
+    padding: 0px 5px 0px 10px;
+    margin-top: 5px;
+}
+.year1{
+    font-style: italic;
+    font-size: large;
+    color: #BDBDBD;
+    padding: 5px 5px 10px 10px;
+    font-family: 'Poppins', sans-serif;
+}
+.movieTitle2{
+   
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+    padding: 5px 5px 0px 10px;
+    margin-top: 10px;
+}
+.movie2Title2{
+    
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+    padding: 0px 5px 0px 10px;
+    margin-top: 5px;
+}
+.year2{
+    font-style: italic;
+    font-size: medium;
+    color: #BDBDBD;
+    padding: 5px 5px 10px 10px;
+    font-family: 'Poppins', sans-serif;
+}
+.movieTitle3{
+    
+    font-size: small;
+    font-family: 'Poppins', sans-serif;
+    padding: 5px 5px 0px 10px;
+    margin-top: 10px;
+}
+.movie2Title3{
+   
+    font-size: small;
+    font-family: 'Poppins', sans-serif;
+    padding: 0px 5px 0px 10px;
+    margin-top: 5px;
+}
+.year3{
+    font-style: italic;
+    font-size: small;
+    color: #BDBDBD;
+    padding: 5px 5px 10px 10px;
+    font-family: 'Poppins', sans-serif;
+}
+.bg{
+    background-color: black;
+}
